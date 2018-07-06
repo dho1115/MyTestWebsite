@@ -11,7 +11,7 @@ body {
 } 
 
 #circle {
-    border: 3px solid forestgreen;
+    border: 1px solid forestgreen;
     background-color: forestgreen;
     height: 100px;
     width: 100px;
