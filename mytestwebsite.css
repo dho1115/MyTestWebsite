@@ -8,14 +8,12 @@ body {
     color: darkslategrey;
     background-image: url("TahoeVII.JPG");
     background-repeat: no-repeat;
-    background-size: cover;
-    height: 100%;
-    width: 100%;
+    background-size: cover;    
 } 
 
 #circle {
-    border: 1px solid lightseagreen;
-    background-color: lightseagreen;
+    border: 1px solid forestgreen;
+    background-color: forestgreen;
     height: 100px;
     width: 100px;
     border-radius: 180px;    
