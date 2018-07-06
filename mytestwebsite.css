@@ -1,4 +1,9 @@
 body {
     background: lightseagreen;
     color: red;
+} 
+
+div {
+    border: 1px solid white;
+    background-color: whitesmoke;
 }
